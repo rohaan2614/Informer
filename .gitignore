@@ -1,0 +1,7 @@
+# Virtual Environment
+venv/*
+
+# Some random stuff for later
+ECL.csv
+WTH.csv
+Dockerfile
